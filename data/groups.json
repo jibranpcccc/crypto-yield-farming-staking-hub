@@ -1,5 +1,24 @@
 [
   {
+    "id": "defi-yield-farming-staking-alpha-hub-reddit-6",
+    "title": "r/arbitrum Layer-2 Scaling",
+    "platform": "Reddit",
+    "category": "Layer 2",
+    "memberCount": "75,000+ members",
+    "description": "Arbitrum One and Nova ecosystem developments, gas optimization, bridge protocols, and low-slippage swaps.",
+    "joinUrl": "https://www.reddit.com/r/arbitrum/",
+    "tags": [
+      "arbitrum",
+      "layer2",
+      "defi",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23"
+  },
+  {
     "id": "defi-yield-farming-staking-alpha-hub-reddit-5",
     "title": "r/CryptoCurrency Global Network",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -701,24 +720,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "defi-yield-farming-staking-alpha-hub-reddit-6",
-    "title": "r/arbitrum Layer-2 Scaling",
-    "platform": "Reddit",
-    "category": "Layer 2",
-    "memberCount": "75,000+ members",
-    "description": "Arbitrum One and Nova ecosystem developments, gas optimization, bridge protocols, and low-slippage swaps.",
-    "joinUrl": "https://www.reddit.com/r/arbitrum/",
-    "tags": [
-      "arbitrum",
-      "layer2",
-      "defi",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "defi-yield-farming-staking-alpha-hub-reddit-7",
