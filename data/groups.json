@@ -1,5 +1,24 @@
 [
   {
+    "id": "defi-yield-farming-staking-alpha-hub-reddit-9",
+    "title": "r/Avax Avalanche Consensus",
+    "platform": "Reddit",
+    "category": "Avalanche",
+    "memberCount": "85,000+ members",
+    "description": "Subnet architecture, high-speed finality, and cross-subnet asset liquidity on Avalanche.",
+    "joinUrl": "https://www.reddit.com/r/Avax/",
+    "tags": [
+      "avalanche",
+      "subnets",
+      "defi",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "defi-yield-farming-staking-alpha-hub-reddit-8",
     "title": "r/0xPolygon Ecosystem",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -758,24 +777,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "defi-yield-farming-staking-alpha-hub-reddit-9",
-    "title": "r/Avax Avalanche Consensus",
-    "platform": "Reddit",
-    "category": "Avalanche",
-    "memberCount": "85,000+ members",
-    "description": "Subnet architecture, high-speed finality, and cross-subnet asset liquidity on Avalanche.",
-    "joinUrl": "https://www.reddit.com/r/Avax/",
-    "tags": [
-      "avalanche",
-      "subnets",
-      "defi",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "defi-yield-farming-staking-alpha-hub-reddit-10",
